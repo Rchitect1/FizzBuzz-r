@@ -4,6 +4,6 @@ public class Main {
     public static void main(String[] args) {
         String[] str = new String[0];
         FizzBuzz.main(str);
-        FizzBuzz.doFizzbuzz(5);
+        FizzBuzz.doFizzBuzz(5);
     }
 }
